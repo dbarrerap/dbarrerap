@@ -15,21 +15,6 @@ No current personal/professional independent projects. Full-time employee at the
 * **Kiosko Virtual INTERLAB**: Software for the end-user to retrieve medical exams.
 * **Intelligent Parking Lot**: An electronics project using Arduino and HC-SR04 sensors.
 
-## How to reach me
-
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xdoyyekk" method="post">
-  <fieldset id="fs-frm-inputs">
-    <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="Nombre Completo" required="">
-    <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="email@example.com" required="">
-    <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Escriba su mensaje aqui." required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Contacto desde Github.">
-  </fieldset>
-  <input type="submit" value="Enviar">
-</form>
-
 <!--
 **dbarrerap/dbarrerap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
