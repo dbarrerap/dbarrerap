@@ -10,11 +10,13 @@ I consider myself a Backend Developer (although no degree). My favorite framewor
 * [JetBrains PyCharm](jetbrains.com/pycharm/)
 * [Git](https://git-scm.com/)
 * [SQLiteStudio](https://sqlitestudio.pl/)
+* [MySQL Workbench](https://www.mysql.com/products/workbench/)
+* [Azure Data Studio](https://azure.microsoft.com/en-us/services/developer-tools/data-studio/)
 * [Heroku](https://www.heroku.com/home)
 
 ## Current Project
 
-No current personal/professional independent projects. Full-time employee at the moment.
+Web-based CRM with ASP.NET (C#) and MySQL
 
 ## Previous Projects
 
