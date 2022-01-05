@@ -7,7 +7,7 @@ I consider myself a Backend Developer (although no degree). My favorite framewor
 ## Tools of the Trade
 
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [JetBrains PyCharm](jetbrains.com/pycharm/)
+* [JetBrains PyCharm](https://jetbrains.com/pycharm/)
 * [Git](https://git-scm.com/)
 * [SQLiteStudio](https://sqlitestudio.pl/)
 * [MySQL Workbench](https://www.mysql.com/products/workbench/)
