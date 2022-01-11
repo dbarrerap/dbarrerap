@@ -16,7 +16,7 @@ I consider myself a Backend Developer (although no degree). My favorite framewor
 
 ## Current Project
 
-Web-based CRM with ASP.NET (C#) and MySQL
+COVID vaccination certificate for Ecuador using Python[1](https://github.com/dbarrerap/CovidCertificateGen).
 
 ## Previous Projects
 
