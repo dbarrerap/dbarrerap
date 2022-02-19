@@ -4,10 +4,16 @@ My name is David Barrera. I'm from Ecuador :earth_americas:. I started in progra
 
 I consider myself a Backend Developer (although no degree). My favorite frameworks to work with are Django and Flask. With the release of [.Net Core](https://dotnet.microsoft.com/download), ASP.NET Core has become my new playground (still strugling with LinQ), but I'm still faithful to Python :snake:.
 
+## Languages and Frameworks
+
+* Python - Flask, Django
+* JavaScript - React
+* C# - .NET6
+* PHP - Laravel
+
 ## Tools of the Trade
 
 * [Visual Studio Code](https://code.visualstudio.com/)
-* [JetBrains PyCharm](https://jetbrains.com/pycharm/)
 * [Git](https://git-scm.com/)
 * [SQLiteStudio](https://sqlitestudio.pl/)
 * [MySQL Workbench](https://www.mysql.com/products/workbench/)
@@ -16,12 +22,13 @@ I consider myself a Backend Developer (although no degree). My favorite framewor
 
 ## Current Project
 
-COVID vaccination certificate for Ecuador using Python[1](https://github.com/dbarrerap/CovidCertificateGen).
+**Clima**: A web application, done in JS/React, that loads weather data from the user's location. [Source](https://github.com/dbarrerap/clima-app-react).
 
 ## Previous Projects
 
 * **Kiosko Virtual INTERLAB**: Software for the end-user to retrieve medical exams. Written in Java using JavaFX for UI.
 * **Intelligent Parking Lot**: An electronics project using Arduino and HC-SR04 sensors.
+* **COVID vaccination certificate for Ecuador** [Source](https://github.com/dbarrerap/CovidCertificateGen).
 
 <!--
 **dbarrerap/dbarrerap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
